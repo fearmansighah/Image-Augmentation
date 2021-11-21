@@ -10,9 +10,9 @@ Performs the following image augmentations:
 4. varying brightness
 5. varying contrast
 
-This script will randomly augment images that have been sorted according to the Default Directory Organisation
+This program will randomly augment images that have been sorted according to the Default Directory Organisation
 
-## Default Directory Organisaton:
+## Default Directory Organisation:
 
 - Training Data
   - Class 1
@@ -32,7 +32,3 @@ This can be adjusted according to the use case and existing system used from ima
 
 1. pip install numpy
 2. pip install opencv-python
-
-## This is a change made from Github
-
-## This is a change made from my computer
