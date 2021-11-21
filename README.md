@@ -35,4 +35,4 @@ This can be adjusted according to the use case and existing system used from ima
 
 ## This is a change made from Github
 
-## This is a change made from nazarovenko's computer
+## This is a change made from nazarovenko's PC
