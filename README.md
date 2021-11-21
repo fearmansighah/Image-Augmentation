@@ -10,7 +10,7 @@ Performs the following image augmentations:
 4. varying brightness
 5. varying contrast
 
-This program will randomly augment images that have been sorted according to the Default Directory Organisation
+This repository randomly augments images that have been sorted according to the Default Directory Organisation
 
 ## Default Directory Organisation:
 
